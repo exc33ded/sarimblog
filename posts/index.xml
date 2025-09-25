@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sarim&#39;s Tech Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Sarim&#39;s Tech Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2025 Sarim</copyright>
+    <lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Every Developer Needs a Blog</title>
+      <link>/posts/why-every-developer-needs-a-blog/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/why-every-developer-needs-a-blog/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020250924225916.png&#34; alt=&#34;Image Description&#34;&gt;&#xA;In a world of portfolios and GitHub profiles, it&amp;rsquo;s easy to wonder if a personal blog is still relevant for developers. The answer is a resounding &lt;strong&gt;yes&lt;/strong&gt;. A blog is not just a place to share your thoughts; it&amp;rsquo;s a powerful tool that can significantly boost your personal growth and professional career.&lt;/p&gt;&#xA;&lt;p&gt;Here are a few reasons why you should start one today.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-1-solidify-your-knowledge&#34;&gt;## 1. Solidify Your Knowledge&lt;/h3&gt;&#xA;&lt;p&gt;Have you ever tried to explain a complex topic to someone, only to realize you didn&amp;rsquo;t understand it as well as you thought? This is known as the &lt;strong&gt;Feynman Technique&lt;/strong&gt;. The act of writing down what you know forces you to confront the gaps in your understanding.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
