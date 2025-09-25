@@ -2,25 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sarimblog.vercel.app/tags/ai/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sarimblog.vercel.app/tags/bias/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sarimblog.vercel.app/tags/development/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sarimblog.vercel.app/tags/ethics/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sarimblog.vercel.app/tags/fairness/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sarimblog.vercel.app/posts/guide-to-responsible-ai--navigating-bias-and-fairness-in-large-language-models/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sarimblog.vercel.app/tags/llm/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sarimblog.vercel.app/posts/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sarimblog.vercel.app/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sarimblog.vercel.app/tags/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sarimblog.vercel.app/tags/writing/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sarimblog.vercel.app/tags/career/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sarimblog.vercel.app/tags/development/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sarimblog.vercel.app/posts/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sarimblog.vercel.app/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sarimblog.vercel.app/tags/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sarimblog.vercel.app/posts/why-every-developer-needs-a-blog/</loc>
-    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sarimblog.vercel.app/tags/writing/</loc>
     <lastmod>2025-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sarimblog.vercel.app/categories/</loc>
