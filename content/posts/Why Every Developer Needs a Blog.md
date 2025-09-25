@@ -5,7 +5,7 @@ draft: false
 description: "More than just a journal, a blog is a powerful tool for personal growth and professional development in the tech world."
 tags: ["Career", "Development", "Writing"]
 ---
-!![Image Description](/images/Pasted%20image%2020250924225916.png)
+![Image Description](/images/Pasted%20image%2020250924225916.png)
 In a world of portfolios and GitHub profiles, it's easy to wonder if a personal blog is still relevant for developers. The answer is a resounding **yes**. A blog is not just a place to share your thoughts; it's a powerful tool that can significantly boost your personal growth and professional career.
 
 Here are a few reasons why you should start one today.
