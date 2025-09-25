@@ -1,5 +1,5 @@
 # This is the full, final URL for your blog once it's deployed.
-baseURL = "/"
+baseURL = "https://sarimblog.vercel.app/"
 
 # This new line forces all links to be absolute, fixing the CSS path.
 canonifyURLs = true
